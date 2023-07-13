@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.list-items{
+    position: relative;
+    width: 225.7px;
+    height: 68.9px;
+    left: 102px;
+    top: 171px;
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: black;
+}

@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.box1{
+    position: absolute;
+    width: 1011px;
+    top: 0px;
+height: 649px;
+left: 300px;
+background: #F7ECDC;
+}
+.img1{
+    position: absolute;
+    left: 180px;
+    top: 80px;
+}
+.heading{
+    position: absolute;
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 400;
+letter-spacing: 0.02em;
+color: #000000;
+width: 310px;
+top: 372px;
+left: 369px;
+} 
+.para1{
+    position: absolute;
+    width: 616px;
+    top: 440px;
+    left: 203px;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #292929;
+}
+.img2{
+    position: absolute;
+    width: 17px;
+    height: 21px;
+    top: 613px;
+    left: 406px;
+}
+.para2{
+    position: absolute;
+    width: 217px;
+height: 32px;
+top: 609px;
+left: 427px;
+font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0.02em;
+}
